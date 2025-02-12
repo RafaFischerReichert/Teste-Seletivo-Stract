@@ -15,20 +15,18 @@ Antes de instalar o código, certifique-se de que você possui os seguintes pré
    Abra o terminal e clone o repositório do projeto usando o seguinte comando:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/RafaFischerReichert/Teste-Seletivo-Stract
    ```
-
-   Substitua `<URL_DO_REPOSITORIO>` pela URL do repositório que contém o código.
 
 2. **Navegue até o diretório do projeto**
 
    Após clonar o repositório, navegue até o diretório do projeto:
 
    ```bash
-   cd <NOME_DO_DIRETORIO>
+   cd Teste-Seletivo-Stract
    ```
 
-   Substitua `<NOME_DO_DIRETORIO>` pelo nome do diretório do projeto.
+   Substitua o nome do repositório se necessário.
 
 3. **Instale as dependências**
 
